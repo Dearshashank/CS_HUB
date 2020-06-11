@@ -1,0 +1,4 @@
+Status of project 
+
+11-2-2020  Created DB 
+18-2-2020  JDBC 
